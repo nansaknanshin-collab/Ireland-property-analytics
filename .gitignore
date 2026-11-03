@@ -1,0 +1,7 @@
+data/raw/*
+!data/raw/.gitkeep
+data/sample/*.csv
+data/processed/
+data/*.db
+__pycache__/
+.venv/
